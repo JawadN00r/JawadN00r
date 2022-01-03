@@ -2,17 +2,17 @@
 ## I'm a Computer Scientist and Full Stack Software Engineer!!
 
 - 🔭 I’m currently solving [programming problems][leetcode].
-- 🌱 I’m currently learning  **blockchain** 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning  **web 3.0 with blockchain** 🤣
+- 👯 I’m looking for freelance opportunities.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-<!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+[<img align="left" alt="jawadasif.vercel.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="JawadAsif | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<!-- [<img align="left" alt="JawadAsif | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+[<img align="left" alt="JawadAsif | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!-- [<img align="left" alt="JawadAsif | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
 
@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 -->
 [website]: https://jawadasif.vercel.app/
 [leetcode]: https://leetcode.com/JawadAsif/
-<!-- [twitter]: https://twitter.com/codeSTACKr -->
+<!-- [twitter]: https://twitter.com/JawadAsif -->
 [youtube]: https://www.youtube.com/channel/UCTLaisaPPgBiQ4PHRXMtH5Q
-<!-- [instagram]: https://instagram.com/codeSTACKr -->
+<!-- [instagram]: https://instagram.com/JawadAsif -->
 [linkedin]: https://linkedin.com/in/JawadAsif
 [webdevplaylist]: #
 [jsplaylist]: #
