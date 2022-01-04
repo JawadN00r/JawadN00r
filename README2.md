@@ -11,11 +11,11 @@
 </p>
 <br />
 
-<!-- <p>Enthusiastic Software Engineer since 2011 using ReactJS, Angular and Java Spring Boot. a11y minded. Scrum & Agile inspired.</p>
-<br /> -->
+<p>Enthusiastic Software Engineer. Programming since 2011. Worked in both industry and academia. Developed  mobile, desktop and web apps. a11y minded. Looking for freelance opportunities.</p>
+<br />
 
-<!-- <h2 align="center">My favorite projects 💻</h2> -->
-<!-- <br /> -->
+<h2 align="center">My favorite projects <img src="https://i.gifer.com/4XCW.gif" alt="" width="40" align="center"></h2>
+<br />
 
 <!-- <p align="center"> -->
   <!-- <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" /> -->
