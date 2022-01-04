@@ -14,7 +14,7 @@
 <p>Enthusiastic Software Engineer. Programming since 2011. Worked in both industry and academia. Developed  mobile, desktop and web apps. a11y minded. Looking for freelance opportunities.</p>
 <br />
 
-<h2 align="center">My favorite projects <img src="https://i.gifer.com/4XCW.gif" alt="" width="40" align="center"></h2>
+<h2 align="center">My favorite projects <img src="assets/laptop1.gif" alt="" width="40" align="center"></h2>
 <br />
 
 <!-- <p align="center"> -->
