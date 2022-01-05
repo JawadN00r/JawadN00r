@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hi there, I'm JawadAsif <img src="assets/wave-hello.gif" alt="" width="30"></h1>
+  <h1 align="center"><b>Hi there, I'm JawadAsif</b> <img src="assets/wave-hello.gif" alt="" width="30"></h1>
 </p>
 <p align="center">
 <a href="https://jawadasif.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-04C2C9?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
@@ -11,13 +11,14 @@
 </p>
 <br />
 
-- 🔭 **Enthusiastic Software Engineer.**
-- 🚀 **Programming since 2011.**
-- 🌱 **Worked in both industry and academia.** 
-- 💪 **Developed  mobile, desktop and web apps.** 
-- 💡 **Taught CS and Programming Languages.**
-- 🤝 **Love to learn and teach.**
-- 👀 **Looking for freelance opportunities.**
+- 🔭 Enthusiastic Software Engineer. 
+- 🚀 Programming since 2011.
+- 🌱 Worked in both industry and academia. 
+- 💪 Developed  mobile, desktop and web apps. 
+- 💡 Taught CS and Programming Languages.
+- 🤝 Love to learn and teach.
+- 👀 Looking for freelance opportunities.
+  
 <br />
 
 <h2 align="center">My favorite projects <img src="assets/laptop1.gif" alt="" width="40" align="center"></h2>
