@@ -37,41 +37,43 @@
   <img  width="400" height="250" src="assets/blog-1.jpg" />
   <img width="400" height="250"src="assets/islamic_times-0.jpg" />
  <a href="https://github.com/JawadAsif/Islamic-Times-PWA">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA&theme=" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA" />
 </a>
 <a href="https://github.com/JawadAsif/Islamic-Times-PWA">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA&theme=" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA" />
 </a>
   <img  width="400" height="250" src="assets/tic-1.jpg" />
   <img width="400" height="250" src="assets/board_sim.jpg" />
   <a href="https://github.com/JawadAsif/Islamic-Times-PWA">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA&theme=" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA" />
 </a>
 <a href="https://github.com/JawadAsif/Islamic-Times-PWA">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA&theme=" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA" />
 </a>
 </p>
-
-<br />
-
-<!-- <h2 align="center">About me 😇</h2>
-<p align="center">
-Timezone: Europe/Vienna (CEST)
-</p>
-<br />
-<p>In my latest project, I created an <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon - Clerk x Hashnode Hackathon July 2021. 🏆 This project was one of the Runner Up Winners. 🥳</p>
-
-:muscle: I am currently helping others to get into tech too by creating content using Twitter.<br /> -->
-<!-- :eyes: I’m currently learning ... TypeScript <br /> -->
-<!-- :raising_hand: I’m looking to collaborate with ... someone who is interested in art / music or helping people /environment <br /> -->
-<!-- :dizzy_face: I’m looking for help with ... TypeScript<br /> -->
-<!-- 💬 Ask me about anything related to... my content. I am happy to help.<br /> -->
-<!-- :ghost: Fun fact: ... I studied Musicology and Japanese studies, but I am now a selftaught developer working in Vienna. <br /> -->
-
 <br />
 <br />
 <p>
-<h3 align="center"> Languages and Tools</h3>
+  <h3 align="center"> Platforms and Frameworks</h3>
+</p>
+<p align="center">
+  <a href="https://android.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.apple.com/ios/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" alt="ios" width="40" height="40"/> </a>&nbsp;
+  <a href="https://web.dev/progressive-web-apps/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" alt="pwa" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.djangoproject.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="django" width="40" height="40"/> </a>&nbsp;
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> </a>&nbsp;
+  <a href="https://nextjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" alt="nextjs" width="40" height="40"/> </a>&nbsp;
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>&nbsp;
+</p>
+<br />
+<p>
+  <h3 align="center"> Languages and Tools</h3>
 </p>
 <br />
 <p align="center">
@@ -95,8 +97,8 @@ Timezone: Europe/Vienna (CEST)
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JawadAsif&show_icons=true&count_private=true&theme=" width="410" height="250" style="object-fit:scale-down"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAsif&layout=compact&theme=" width="400" height="250"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JawadAsif&show_icons=true&count_private=true" width="410" height="250" style="object-fit:scale-down"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAsif&layout=compact" width="400" height="250"/>
 </p>
 
 <!-- --- -->
