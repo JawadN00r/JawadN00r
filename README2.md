@@ -11,7 +11,13 @@
 </p>
 <br />
 
-<p>Enthusiastic Software Engineer. Programming since 2011. Worked in both industry and academia. Developed  mobile, desktop and web apps. a11y minded. Looking for freelance opportunities.</p>
+- 🔭 Enthusiastic Software Engineer. 
+- 🚀 Programming since 2011.
+- 🌱 Worked in both industry and academia. 
+- 💪 Developed  mobile, desktop and web apps. 
+- 💡 Taught CS and Programming Languages.
+- 🤝 Love to learn and teach.
+- 👀 Looking for freelance opportunities.
 <br />
 
 <h2 align="center">My favorite projects <img src="assets/laptop1.gif" alt="" width="40" align="center"></h2>
