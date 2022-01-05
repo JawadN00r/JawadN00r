@@ -34,16 +34,16 @@
 <br />
 
 <p align="center">
-  <img  width="400" height="250" style="object-fit:cover" src="assets/blog-1.jpg" />
-  <img width="400" height="250" style="object-fit:cover"src="assets/islamic_times-0.jpg" />
+  <img  width="400" height="250" src="assets/blog-1.jpg" />
+  <img width="400" height="250"src="assets/islamic_times-0.jpg" />
  <a href="https://github.com/JawadAsif/Islamic-Times-PWA">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA&theme=" />
 </a>
 <a href="https://github.com/JawadAsif/Islamic-Times-PWA">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA&theme=" />
 </a>
-  <img  width="400" height="250" style="object-fit:cover" src="assets/tic-1.jpg" />
-  <img width="400" height="250" object-fit="cover" src="assets/board_sim-1.jpg" />
+  <img  width="400" height="250" src="assets/tic-1.jpg" />
+  <img width="400" height="250" src="assets/board_sim.jpg" />
   <a href="https://github.com/JawadAsif/Islamic-Times-PWA">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA&theme=" />
 </a>
@@ -96,7 +96,7 @@ Timezone: Europe/Vienna (CEST)
 <br />
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=JawadAsif&show_icons=true&count_private=true&theme=" width="410" height="250" style="object-fit:scale-down"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAsif&layout=compact&theme=" width="400" height="250" style="object-fit:scale-down" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAsif&layout=compact&theme=" width="400" height="250"/>
 </p>
 
 <!-- --- -->
