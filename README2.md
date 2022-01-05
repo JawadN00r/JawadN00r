@@ -43,7 +43,7 @@
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA&theme=" />
 </a>
   <img  width="400" height="250" style="object-fit:cover" src="assets/tic-1.jpg" />
-  <img width="400" height="250" style="object-fit:cover"src="assets/board_sim-1.jpg" />
+  <img width="400" height="250" style="object-fit:cover" src="assets/board_sim-1.jpg" />
   <a href="https://github.com/JawadAsif/Islamic-Times-PWA">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA&theme=" />
 </a>
