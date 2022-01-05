@@ -1,12 +1,21 @@
 <p>
-  <h1 align="center"><b>Hi there, I'm JawadAsif</b> <img src="assets/wave-hello.gif" alt="" width="30"></h1>
+  <h1 align="center">
+    <b>Hi there, I'm JawadAsif</b> 
+    <img src="assets/wave-hello.gif" alt="hello" width="30"/>
+  </h1>
 </p>
 <p align="center">
-<a href="https://jawadasif.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-04C2C9?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="https://jawadasif.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-04C2C9?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>&nbsp;
 <!-- <a href="https://codepen.io/JawadAsif"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp; -->
-<a href="https://linkedin.com/in/JawadAsif"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://linkedin.com/in/JawadAsif">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
 <!-- <a href="https://leetcode.com/JawadAsif"><img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="Leetcode" /></a>&nbsp; -->
-<a href="https://leetcode.com/JawadAsif"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=FFA116&label=Leetcode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjawadasif&logo=leetcode&logoColor=FFA116" alt="Leetcode" /></a>&nbsp;
+  <a href="https://leetcode.com/JawadAsif">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=FFA116&label=Leetcode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjawadasif&logo=leetcode&logoColor=FFA116" alt="Leetcode" />
+  </a>&nbsp;
 <!-- <a href="https://dev.to/JawadAsif"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt="Dev.to" /></a>&nbsp; -->
 </p>
 <br />
@@ -24,24 +33,24 @@
 <h2 align="center">My favorite projects <img src="assets/laptop1.gif" alt="" width="40" align="center"></h2>
 <br />
 
-<!-- <p align="center"> -->
-  <!-- <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" /> -->
-  <!-- <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" /> -->
- <!-- <a href="https://github.com/YuriDevAT/sos-animals"> -->
-  <!-- <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" /> -->
-<!-- </a> -->
-  <!-- <a href="https://github.com/YuriDevAT/smart-shopping-list"> -->
-  <!-- <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" /> -->
-<!-- </a> -->
-  <!-- <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" /> -->
-  <!-- <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" /> -->
-  <!-- <a href="https://github.com/YuriDevAT/nikki-my-diary"> -->
-  <!-- <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" /> -->
-<!-- </a> -->
-<!-- <a href="https://github.com/YuriDevAT/instagram-clone"> -->
-  <!-- <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" /> -->
-<!-- </a> -->
-<!-- </p> -->
+<p align="center">
+  <img  width="400" height="250" style="object-fit:cover" src="assets/blog-1.jpg" />
+  <img width="400" height="250" style="object-fit:cover"src="assets/islamic_times-0.jpg" />
+ <a href="https://github.com/JawadAsif/Islamic-Times-PWA">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA&theme=" />
+</a>
+<a href="https://github.com/JawadAsif/Islamic-Times-PWA">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA&theme=" />
+</a>
+  <img  width="400" height="250" style="object-fit:cover" src="assets/tic-1.jpg" />
+  <img width="400" height="250" style="object-fit:cover"src="assets/board_sim-1.jpg" />
+  <a href="https://github.com/JawadAsif/Islamic-Times-PWA">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA&theme=" />
+</a>
+<a href="https://github.com/JawadAsif/Islamic-Times-PWA">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA&theme=" />
+</a>
+</p>
 
 <br />
 
@@ -82,13 +91,13 @@ Timezone: Europe/Vienna (CEST)
 </p>
 <br />
 
-<!-- --- -->
+---
 
 <br />
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YuriDevAT&theme=radical&show_icons=true" width="410"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="400" />
-</p> -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=JawadAsif&show_icons=true&count_private=true&theme=" width="410" height="250" style="object-fit:scale-down"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAsif&layout=compact&theme=" width="400" height="250" style="object-fit:scale-down" />
+</p>
 
 <!-- --- -->
 
