@@ -37,10 +37,10 @@
   <img  width="400" height="250" src="assets/blog-1.jpg" />
   <img width="400" height="250"src="assets/islamic_times-0.jpg" />
 <a href="https://github.com/JawadAsif/jawadasif_scribble">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=jawadasif_scribble&theme=cobalt" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=jawadasif_scribble&theme=default" />
 </a>
  <a href="https://github.com/JawadAsif/Islamic-Times-PWA">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA&theme=cobalt" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA" />
 </a>
   <img  width="400" height="250" src="assets/tic-1.jpg" />
   <img width="400" height="250" src="assets/board_sim.jpg" />
@@ -48,7 +48,7 @@
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA" />
 </a>
 <a href="https://github.com/JawadAsif/EIIN_SIM">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=EIIN_SIM&theme=cobalt" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=EIIN_SIM" />
 </a>
 </p>
 <br />
@@ -106,8 +106,8 @@
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JawadAsif&show_icons=true&count_private=true&theme=cobalt" width="410" style="object-fit:scale-down"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAsif&layout=compact&theme=cobalt" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JawadAsif&show_icons=true&count_private=true" width="410" style="object-fit:scale-down"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAsif&layout=compact" width="400"/>
 </p>
 
 <!-- --- -->
