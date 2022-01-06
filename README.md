@@ -36,11 +36,11 @@
 <p align="center">
   <img  width="400" height="250" src="assets/blog-1.jpg" />
   <img width="400" height="250"src="assets/islamic_times-0.jpg" />
- <a href="https://github.com/JawadAsif/Islamic-Times-PWA">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA" />
+<a href="https://github.com/JawadAsif/jawadasif_scribble">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=jawadasif_scribble&theme=cobalt" />
 </a>
-<a href="https://github.com/JawadAsif/Islamic-Times-PWA">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA" />
+ <a href="https://github.com/JawadAsif/Islamic-Times-PWA">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA&theme=cobalt" />
 </a>
   <img  width="400" height="250" src="assets/tic-1.jpg" />
   <img width="400" height="250" src="assets/board_sim.jpg" />
