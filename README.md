@@ -20,7 +20,7 @@
 </p>
 <br />
 
-<ul style="list-style:none;margin-left:2rem">
+<ul>
   <li>🔭 Enthusiastic Software Engineer.</li> 
   <li>🚀 Programming since 2011.</li>
   <li>🌱 Worked in both industry and academia.</li> 
@@ -125,3 +125,9 @@
 
 ... [READ MORE](https://dev.to/yuridevat) -->
 <!-- BLOG-POST-LIST:END -->
+<style>
+  ul {
+    list-style:none;
+    margin-left:2rem;
+  }
+</style>
