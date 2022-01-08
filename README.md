@@ -19,16 +19,17 @@
 <!-- <a href="https://dev.to/JawadAsif"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt="Dev.to" /></a>&nbsp; -->
 </p>
 <br />
-
-<ul>
-  <li>🔭 Enthusiastic Software Engineer.</li> 
-  <li>🚀 Programming since 2011.</li>
-  <li>🌱 Worked in both industry and academia.</li> 
-  <li>💪 Developed  mobile, desktop and web apps.</li> 
-  <li>💡 Taught CS and Programming Languages.</li>
-  <li>🤝 Love to learn and teach.</li>
-  <li>👀 Looking for freelance opportunities.</li>
-</ul>
+<div id="user-content-toc">
+  <ul>
+    <li>🔭 Enthusiastic Software Engineer.</li> 
+    <li>🚀 Programming since 2011.</li>
+    <li>🌱 Worked in both industry and academia.</li> 
+    <li>💪 Developed  mobile, desktop and web apps.</li> 
+    <li>💡 Taught CS and Programming Languages.</li>
+    <li>🤝 Love to learn and teach.</li>
+    <li>👀 Looking for freelance opportunities.</li>
+  </ul>
+</div>
   
 <br />
 
@@ -125,9 +126,3 @@
 
 ... [READ MORE](https://dev.to/yuridevat) -->
 <!-- BLOG-POST-LIST:END -->
-<style>
-  ul {
-    list-style:none;
-    margin-left:2rem;
-  }
-</style>
