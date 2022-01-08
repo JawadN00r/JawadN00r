@@ -20,13 +20,15 @@
 </p>
 <br />
 
-- 🔭 Enthusiastic Software Engineer. 
-- 🚀 Programming since 2011.
-- 🌱 Worked in both industry and academia. 
-- 💪 Developed  mobile, desktop and web apps. 
-- 💡 Taught CS and Programming Languages.
-- 🤝 Love to learn and teach.
-- 👀 Looking for freelance opportunities.
+<ul style="list-style:none;margin-left:2rem">
+  <li>🔭 Enthusiastic Software Engineer.</li> 
+  <li>🚀 Programming since 2011.</li>
+  <li>🌱 Worked in both industry and academia.</li> 
+  <li>💪 Developed  mobile, desktop and web apps.</li> 
+  <li>💡 Taught CS and Programming Languages.</li>
+  <li>🤝 Love to learn and teach.</li>
+  <li>👀 Looking for freelance opportunities.</li>
+</ul>
   
 <br />
 
