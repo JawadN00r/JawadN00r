@@ -47,8 +47,8 @@
 </a>
   <img  width="400" height="250" src="assets/tic-1.jpg" />
   <img width="400" height="250" src="assets/board_sim.jpg" />
-  <a href="https://github.com/JawadAsif/Islamic-Times-PWA">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA" />
+  <a href="https://github.com/JawadAsif/Unbeatable-Tic-Tac-Toe">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Unbeatable-Tic-Tac-Toe" />
 </a>
 <a href="https://github.com/JawadAsif/EIIN_SIM">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=EIIN_SIM" />
