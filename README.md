@@ -42,7 +42,7 @@
   <a href="https://github.com/JawadAsif/jawadasif_scribbles">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=jawadasif_scribbles" />
   </a>
-  <a href="https://github.com/JawadAsif/Unbeatable-Tic-Tac-Toe">
+  <a href="https://github.com/JawadAsif/DinoGameJS_demo">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=DinoGameJS_demo" />
   </a>
   <img width="400" height="250"src="assets/islamic_times-0.jpg" />
