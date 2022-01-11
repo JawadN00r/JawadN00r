@@ -38,21 +38,21 @@
 
 <p align="center">
   <img  width="400" height="250" src="assets/blog-1.jpg" />
-  <img width="400" height="250"src="assets/islamic_times-0.jpg" />
-<a href="https://github.com/JawadAsif/jawadasif_scribble">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=jawadasif_scribble&theme=default" />
-</a>
- <a href="https://github.com/JawadAsif/Islamic-Times-PWA">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA" />
-</a>
-  <img  width="400" height="250" src="assets/tic-1.jpg" />
-  <img width="400" height="250" src="assets/board_sim.jpg" />
+  <img  width="400" height="250" src="assets/dinogame.jpg" />
+  <a href="https://github.com/JawadAsif/jawadasif_scribbles">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=jawadasif_scribbles" />
+  </a>
   <a href="https://github.com/JawadAsif/Unbeatable-Tic-Tac-Toe">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Unbeatable-Tic-Tac-Toe" />
-</a>
-<a href="https://github.com/JawadAsif/EIIN_SIM">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=EIIN_SIM" />
-</a>
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=DinoGameJS_demo" />
+  </a>
+  <img width="400" height="250"src="assets/islamic_times-0.jpg" />
+  <img width="400" height="250" src="assets/board_sim.jpg" />
+  <a href="https://github.com/JawadAsif/Islamic-Times-PWA">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA" />
+  </a>
+  <a href="https://github.com/JawadAsif/EIIN_SIM">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=EIIN_SIM" />
+  </a>
 </p>
 <br />
 <br />
