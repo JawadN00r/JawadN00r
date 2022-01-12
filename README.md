@@ -21,13 +21,13 @@
 <br />
 <div id="user-content-toc">
   <ul>
-    <li>🔭 Enthusiastic Software Engineer.</li><br/> 
-    <li>🚀 Programming since 2011.</li><br/>
-    <li>🌱 Worked in both industry and academia.</li><br/> 
-    <li>💪 Developed  mobile, desktop and web apps.</li><br/> 
-    <li>💡 Taught CS and Programming Languages.</li><br/>
-    <li>🤝 Love to learn and teach.</li><br/>
-    <li>👀 Looking for freelance opportunities.</li><br/>
+    <li>🔭 Enthusiastic Software Engineer.</li> 
+    <li>🚀 Programming since 2011.</li>
+    <li>🌱 Worked in both industry and academia.</li> 
+    <li>💪 Developed  mobile, desktop and web apps.</li> 
+    <li>💡 Taught CS and Programming Languages.</li>
+    <li>🤝 Love to learn and teach.</li>
+    <li>👀 Looking for freelance opportunities.</li>
   </ul>
 </div>
   
@@ -110,11 +110,6 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JawadAsif's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JawadAsif&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     <!-- </a> -->
 </p>
-
-
-<!-- --- -->
-
-<br />
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=JawadAsif&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" width="410" style="object-fit:scale-down"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAsif&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" width="400"/>
