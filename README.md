@@ -40,18 +40,18 @@
   <img  width="400" height="250" src="assets/blog-1.jpg" />
   <img  width="400" height="250" src="assets/dinogame.jpg" />
   <a href="https://github.com/JawadAsif/jawadasif_scribbles">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=jawadasif_scribbles" />
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=jawadasif_scribbles&theme=react&hide_border=true&bg_color=060A0CD0" />
   </a>
   <a href="https://github.com/JawadAsif/DinoGameJS_demo">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=DinoGameJS_demo" />
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=DinoGameJS_demo&theme=react&hide_border=true&bg_color=060A0CD0" />
   </a>
   <img width="400" height="250"src="assets/islamic_times-0.jpg" />
   <img width="400" height="250" src="assets/board_sim.jpg" />
   <a href="https://github.com/JawadAsif/Islamic-Times-PWA">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA" />
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA&theme=react&hide_border=true&bg_color=060A0CD0" />
   </a>
   <a href="https://github.com/JawadAsif/EIIN_SIM">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=EIIN_SIM" />
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=EIIN_SIM&theme=react&hide_border=true&bg_color=060A0CD0" />
   </a>
 </p>
 <br />
@@ -87,7 +87,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" alt="cpp" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/c/c.png" alt="c" width="40" height="40"/> </a>&nbsp;
-<a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" alt="objective-c" width="40" height="40"/> </a>&nbsp;
+<a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"> <img src="https://apprecs.org/ios/images/app-icons/256/c2/486204866.jpg" alt="objective-c" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp;
 <a href="https://sass-lang.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" width="40" height="40"/> </a>&nbsp;
@@ -101,7 +101,12 @@
    </p>
 <br />
 <p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+    <!-- <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats"> -->
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JawadAsif&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <!-- </a> -->
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </p>
 <br />
 
@@ -109,9 +114,11 @@
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JawadAsif&show_icons=true&count_private=true" width="410" style="object-fit:scale-down"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAsif&layout=compact" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JawadAsif&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" width="410" style="object-fit:scale-down"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAsif&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" width="400"/>
 </p>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 
 <!-- --- -->
 
