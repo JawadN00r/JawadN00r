@@ -56,8 +56,9 @@
 </p>
 <br />
 <br />
+<br />
 <p>
-  <h3 align="center"> Platforms and Frameworks</h3>
+  <h2 align="center"> Platforms and Frameworks</h2>
 </p>
 <p align="center">
   <a href="https://android.com/" target="_blank"> 
@@ -100,6 +101,8 @@
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="40" height="40"/> </a>&nbsp;
    </p>
 <br />
+<br/>
+<br/>
 <h2 align="center">📊 My Github Stats</h2>
 <br />
 <p align="center">
@@ -123,6 +126,38 @@
 
 <br/>
 <br/>
+<br/>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</p>
+<br />
+
+<h2 align="center">Connect with me</h2>
+<p align="center">
+  <a href = "https://www.linkedin.com/in/JawadAsif/">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
+  <!-- <a href = "https://twitter.com/subhamraoniar">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+  </a> -->
+  <a href = "https://jawadasif.vercel.app/">
+    <img src="https://img.icons8.com/fluent/48/000000/globe.png"/>
+  </a>
+  <a href = "https://www.youtube.com/channel/UCTLaisaPPgBiQ4PHRXMtH5Q">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>
+  </a>
+
+</p>
+<br>
+<br>
+<!-- <h2 align="center">❤ Views and Followers</h2>
+<p align="center">
+  <a href="">
+      <img src="https://komarev.com/ghpvc/?username=JawadAsif">
+  </a>
+  <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/JawadAsif?label=Followers&style=social" alt="GitHub Badge"></a>
+</p> -->
 
 <!-- --- -->
 
@@ -137,8 +172,3 @@
 
 ... [READ MORE](https://dev.to/yuridevat) -->
 <!-- BLOG-POST-LIST:END -->
----
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-</p>
-<br />
