@@ -106,13 +106,9 @@
 <h2 align="center">📊 My Github Stats</h2>
 <br />
 <p align="center">
-    <!-- <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats"> -->
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JawadAsif's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JawadAsif&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    <!-- </a> -->
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JawadAsif&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" width="410" style="object-fit:scale-down"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAsif&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" width="400"/>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JawadAsif's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JawadAsif&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JawadAsif&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" width="410" style="object-fit:scale-down"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAsif&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" width="400"/>
 </p>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br>
