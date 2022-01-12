@@ -21,13 +21,13 @@
 <br />
 <div id="user-content-toc">
   <ul>
-    <li>🔭 Enthusiastic Software Engineer.</li> 
-    <li>🚀 Programming since 2011.</li>
-    <li>🌱 Worked in both industry and academia.</li> 
-    <li>💪 Developed  mobile, desktop and web apps.</li> 
-    <li>💡 Taught CS and Programming Languages.</li>
-    <li>🤝 Love to learn and teach.</li>
-    <li>👀 Looking for freelance opportunities.</li>
+    <li>🔭 Enthusiastic Software Engineer.</li><br/> 
+    <li>🚀 Programming since 2011.</li><br/>
+    <li>🌱 Worked in both industry and academia.</li><br/> 
+    <li>💪 Developed  mobile, desktop and web apps.</li><br/> 
+    <li>💡 Taught CS and Programming Languages.</li><br/>
+    <li>🤝 Love to learn and teach.</li><br/>
+    <li>👀 Looking for freelance opportunities.</li><br/>
   </ul>
 </div>
   
