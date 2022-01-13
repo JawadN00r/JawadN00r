@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [452. Minimum Number of Arrows to Burst Balloons](https://blog.jawadasif.vercel.app/post/minimum-number-of-arrows-to-burst-balloons)
 - [701. Insert into a Binary Search Tree](https://blog.jawadasif.vercel.app/post/insert-into-a-binary-search-tree)
 - [1022. Sum of Root To Leaf Binary Numbers](https://blog.jawadasif.vercel.app/post/sum-of-root-to-leaf-binary-numbers)
 - [67. Add Binary](https://blog.jawadasif.vercel.app/post/add-binary)
 - [1041. Robot Bounded In Circle](https://blog.jawadasif.vercel.app/post/robot-bounded-in-circle)
-- [1463. Cherry Pickup II](https://blog.jawadasif.vercel.app/post/cherry-pickup-ii)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
