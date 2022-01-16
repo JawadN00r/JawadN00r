@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [849. Maximize Distance to Closest Person](https://blog.jawadasif.vercel.app/post/maximize-distance-to-closest-person)
+- [1345. Jump Game IV](https://blog.jawadasif.vercel.app/post/jump-game-iv)
+- [8. String to Integer &lpar;atoi&rpar;](https://blog.jawadasif.vercel.app/post/string-to-integer-atoi)
 - [452. Minimum Number of Arrows to Burst Balloons](https://blog.jawadasif.vercel.app/post/minimum-number-of-arrows-to-burst-balloons)
 - [701. Insert into a Binary Search Tree](https://blog.jawadasif.vercel.app/post/insert-into-a-binary-search-tree)
-- [1022. Sum of Root To Leaf Binary Numbers](https://blog.jawadasif.vercel.app/post/sum-of-root-to-leaf-binary-numbers)
-- [67. Add Binary](https://blog.jawadasif.vercel.app/post/add-binary)
-- [1041. Robot Bounded In Circle](https://blog.jawadasif.vercel.app/post/robot-bounded-in-circle)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
