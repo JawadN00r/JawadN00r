@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [142. Linked List Cycle II](https://blog.jawadasif.vercel.app/post/linked-list-cycle-ii)
 - [605. Can Place Flowers](https://blog.jawadasif.vercel.app/post/can-place-flowers)
 - [290. Word Pattern](https://blog.jawadasif.vercel.app/post/word-pattern)
 - [849. Maximize Distance to Closest Person](https://blog.jawadasif.vercel.app/post/maximize-distance-to-closest-person)
 - [1345. Jump Game IV](https://blog.jawadasif.vercel.app/post/jump-game-iv)
-- [8. String to Integer &lpar;atoi&rpar;](https://blog.jawadasif.vercel.app/post/string-to-integer-atoi)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
