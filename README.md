@@ -33,7 +33,7 @@
   
 <br />
 
-<h2 align="center">My favorite projects <img src="assets/laptop1.gif" alt="" width="40" align="center"></h2>
+<h2 align="center"><img src="assets/laptop1.gif" alt="" width="40" align="center"> My favorite projects</h2>
 <br />
 
 <p align="center">
