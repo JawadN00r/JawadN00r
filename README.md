@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [1291. Sequential Digits](https://blog.jawadasif.vercel.app/post/sequential-digits)
 - [2145. Count the Hidden Sequences](https://blog.jawadasif.vercel.app/post/count-the-hidden-sequences)
 - [2144. Minimum Cost of Buying Candies With Discount](https://blog.jawadasif.vercel.app/post/minimum-cost-of-buying-candies-with-discount)
 - [1510. Stone Game IV](https://blog.jawadasif.vercel.app/post/stone-game-iv)
 - [134. Gas Station](https://blog.jawadasif.vercel.app/post/gas-station)
-- [875. Koko Eating Bananas](https://blog.jawadasif.vercel.app/post/koko-eating-bananas)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
