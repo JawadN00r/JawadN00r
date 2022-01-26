@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [1305. All Elements in Two Binary Search Trees](https://blog.jawadasif.vercel.app/post/all-elements-in-two-binary-search-trees)
 - [941. Valid Mountain Array](https://blog.jawadasif.vercel.app/post/valid-mountain-array)
 - [520. Detect Capital](https://blog.jawadasif.vercel.app/post/detect-capital)
 - [1291. Sequential Digits](https://blog.jawadasif.vercel.app/post/sequential-digits)
 - [2145. Count the Hidden Sequences](https://blog.jawadasif.vercel.app/post/count-the-hidden-sequences)
-- [2144. Minimum Cost of Buying Candies With Discount](https://blog.jawadasif.vercel.app/post/minimum-cost-of-buying-candies-with-discount)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
