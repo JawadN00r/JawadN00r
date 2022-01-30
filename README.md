@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [2154. Keep Multiplying Found Values by Two](https://blog.jawadasif.vercel.app/post/keep-multiplying-found-values-by-two)
 - [189. Rotate Array](https://blog.jawadasif.vercel.app/post/rotate-array)
 - [84. Largest Rectangle in Histogram](https://blog.jawadasif.vercel.app/post/largest-rectangle-in-histogram)
 - [211. Design Add and Search Words Data Structure](https://blog.jawadasif.vercel.app/post/design-add-and-search-words-data-structure)
 - [421. Maximum XOR of Two Numbers in an Array](https://blog.jawadasif.vercel.app/post/maximum-xor-of-two-numbers-in-an-array)
-- [1305. All Elements in Two Binary Search Trees](https://blog.jawadasif.vercel.app/post/all-elements-in-two-binary-search-trees)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
