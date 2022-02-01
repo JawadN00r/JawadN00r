@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [121. Best Time to Buy and Sell Stock](https://blog.jawadasif.vercel.app/post/best-time-to-buy-and-sell-stock)
 - [1672. Richest Customer Wealth](https://blog.jawadasif.vercel.app/post/richest-customer-wealth)
 - [2154. Keep Multiplying Found Values by Two](https://blog.jawadasif.vercel.app/post/keep-multiplying-found-values-by-two)
 - [189. Rotate Array](https://blog.jawadasif.vercel.app/post/rotate-array)
 - [84. Largest Rectangle in Histogram](https://blog.jawadasif.vercel.app/post/largest-rectangle-in-histogram)
-- [211. Design Add and Search Words Data Structure](https://blog.jawadasif.vercel.app/post/design-add-and-search-words-data-structure)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
