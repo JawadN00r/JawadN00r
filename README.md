@@ -160,10 +160,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [454. 4Sum II](https://blog.jawadasif.vercel.app/post/4sum-ii)
+- [525. Contiguous Array](https://blog.jawadasif.vercel.app/post/contiguous-array)
+- [23. Merge k Sorted Lists](https://blog.jawadasif.vercel.app/post/merge-k-sorted-lists)
+- [80. Remove Duplicates from Sorted Array II](https://blog.jawadasif.vercel.app/post/remove-duplicates-from-sorted-array-ii)
 - [438. Find All Anagrams in a String](https://blog.jawadasif.vercel.app/post/find-all-anagrams-in-a-string)
-- [121. Best Time to Buy and Sell Stock](https://blog.jawadasif.vercel.app/post/best-time-to-buy-and-sell-stock)
-- [1672. Richest Customer Wealth](https://blog.jawadasif.vercel.app/post/richest-customer-wealth)
-- [2154. Keep Multiplying Found Values by Two](https://blog.jawadasif.vercel.app/post/keep-multiplying-found-values-by-two)
-- [189. Rotate Array](https://blog.jawadasif.vercel.app/post/rotate-array)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
