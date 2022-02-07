@@ -160,10 +160,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [746. Min Cost Climbing Stairs](https://blog.jawadasif.vercel.app/post/min-cost-climbing-stairs)
 - [389. Find the Difference](https://blog.jawadasif.vercel.app/post/find-the-difference)
 - [454. 4Sum II](https://blog.jawadasif.vercel.app/post/4sum-ii)
 - [525. Contiguous Array](https://blog.jawadasif.vercel.app/post/contiguous-array)
 - [23. Merge k Sorted Lists](https://blog.jawadasif.vercel.app/post/merge-k-sorted-lists)
-- [80. Remove Duplicates from Sorted Array II](https://blog.jawadasif.vercel.app/post/remove-duplicates-from-sorted-array-ii)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
