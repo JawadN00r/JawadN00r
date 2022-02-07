@@ -160,10 +160,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [389. Find the Difference](https://blog.jawadasif.vercel.app/post/find-the-difference)
 - [454. 4Sum II](https://blog.jawadasif.vercel.app/post/4sum-ii)
 - [525. Contiguous Array](https://blog.jawadasif.vercel.app/post/contiguous-array)
 - [23. Merge k Sorted Lists](https://blog.jawadasif.vercel.app/post/merge-k-sorted-lists)
 - [80. Remove Duplicates from Sorted Array II](https://blog.jawadasif.vercel.app/post/remove-duplicates-from-sorted-array-ii)
-- [438. Find All Anagrams in a String](https://blog.jawadasif.vercel.app/post/find-all-anagrams-in-a-string)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
