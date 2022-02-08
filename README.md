@@ -160,10 +160,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [1335. Minimum Difficulty of a Job Schedule](https://blog.jawadasif.vercel.app/post/minimum-difficulty-of-a-job-schedule)
 - [1143. Longest Common Subsequence](https://blog.jawadasif.vercel.app/post/longest-common-subsequence)
 - [1770. Maximum Score from Performing Multiplication Operations](https://blog.jawadasif.vercel.app/post/maximum-score-from-performing-multiplication-operations)
 - [258. Add Digits](https://blog.jawadasif.vercel.app/post/add-digits)
 - [740. Delete and Earn](https://blog.jawadasif.vercel.app/post/delete-and-earn)
-- [1137. N-th Tribonacci Number](https://blog.jawadasif.vercel.app/post/n-th-tribonacci-number)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
