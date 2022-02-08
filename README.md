@@ -160,10 +160,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [1770. Maximum Score from Performing Multiplication Operations](https://blog.jawadasif.vercel.app/post/maximum-score-from-performing-multiplication-operations)
 - [258. Add Digits](https://blog.jawadasif.vercel.app/post/add-digits)
 - [740. Delete and Earn](https://blog.jawadasif.vercel.app/post/delete-and-earn)
 - [1137. N-th Tribonacci Number](https://blog.jawadasif.vercel.app/post/n-th-tribonacci-number)
 - [746. Min Cost Climbing Stairs](https://blog.jawadasif.vercel.app/post/min-cost-climbing-stairs)
-- [389. Find the Difference](https://blog.jawadasif.vercel.app/post/find-the-difference)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
