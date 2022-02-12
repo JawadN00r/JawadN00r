@@ -160,10 +160,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [300. Longest Increasing Subsequence](https://blog.jawadasif.vercel.app/post/longest-increasing-subsequence)
 - [139. Word Break](https://blog.jawadasif.vercel.app/post/word-break)
 - [127. Word Ladder](https://blog.jawadasif.vercel.app/post/word-ladder)
 - [567. Permutation in String](https://blog.jawadasif.vercel.app/post/permutation-in-string)
 - [322. Coin Change](https://blog.jawadasif.vercel.app/post/coin-change)
-- [560. Subarray Sum Equals K](https://blog.jawadasif.vercel.app/post/subarray-sum-equals-k)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
