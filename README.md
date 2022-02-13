@@ -160,10 +160,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [518. Coin Change 2](https://blog.jawadasif.vercel.app/post/coin-change-2)
 - [276. Paint Fence](https://blog.jawadasif.vercel.app/post/paint-fence)
 - [78. Subsets](https://blog.jawadasif.vercel.app/post/subsets)
 - [309. Best Time to Buy and Sell Stock with Cooldown](https://blog.jawadasif.vercel.app/post/best-time-to-buy-and-sell-stock-with-cooldown)
 - [188. Best Time to Buy and Sell Stock IV](https://blog.jawadasif.vercel.app/post/best-time-to-buy-and-sell-stock-iv)
-- [300. Longest Increasing Subsequence](https://blog.jawadasif.vercel.app/post/longest-increasing-subsequence)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
