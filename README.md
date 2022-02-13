@@ -160,10 +160,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [64. Minimum Path Sum](https://blog.jawadasif.vercel.app/post/minimum-path-sum)
 - [63. Unique Paths II](https://blog.jawadasif.vercel.app/post/unique-paths-ii)
 - [62. Unique Paths](https://blog.jawadasif.vercel.app/post/unique-paths)
 - [918. Maximum Sum Circular Subarray](https://blog.jawadasif.vercel.app/post/maximum-sum-circular-subarray)
 - [91. Decode Ways](https://blog.jawadasif.vercel.app/post/decode-ways)
-- [518. Coin Change 2](https://blog.jawadasif.vercel.app/post/coin-change-2)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
