@@ -160,10 +160,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [136. Single Number](https://blog.jawadasif.vercel.app/post/single-number)
 - [1220. Count Vowels Permutation](https://blog.jawadasif.vercel.app/post/count-vowels-permutation)
 - [1473. Paint House III](https://blog.jawadasif.vercel.app/post/paint-house-iii)
 - [714. Best Time to Buy and Sell Stock with Transaction Fee](https://blog.jawadasif.vercel.app/post/best-time-to-buy-and-sell-stock-with-transaction-fee)
 - [104. Maximum Depth of Binary Tree](https://blog.jawadasif.vercel.app/post/maximum-depth-of-binary-tree)
-- [931. Minimum Falling Path Sum](https://blog.jawadasif.vercel.app/post/minimum-falling-path-sum)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
