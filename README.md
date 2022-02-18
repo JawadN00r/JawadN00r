@@ -160,10 +160,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [402. Remove K Digits](https://blog.jawadasif.vercel.app/post/remove-k-digits)
 - [718. Maximum Length of Repeated Subarray](https://blog.jawadasif.vercel.app/post/maximum-length-of-repeated-subarray)
 - [39. Combination Sum](https://blog.jawadasif.vercel.app/post/combination-sum)
 - [24. Swap Nodes in Pairs](https://blog.jawadasif.vercel.app/post/swap-nodes-in-pairs)
 - [136. Single Number](https://blog.jawadasif.vercel.app/post/single-number)
-- [1220. Count Vowels Permutation](https://blog.jawadasif.vercel.app/post/count-vowels-permutation)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
