@@ -160,10 +160,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [983. Minimum Cost For Tickets](https://blog.jawadasif.vercel.app/post/minimum-cost-for-tickets)
 - [1675. Minimize Deviation in Array](https://blog.jawadasif.vercel.app/post/minimize-deviation-in-array)
 - [1155. Number of Dice Rolls With Target Sum](https://blog.jawadasif.vercel.app/post/number-of-dice-rolls-with-target-sum)
 - [402. Remove K Digits](https://blog.jawadasif.vercel.app/post/remove-k-digits)
 - [718. Maximum Length of Repeated Subarray](https://blog.jawadasif.vercel.app/post/maximum-length-of-repeated-subarray)
-- [39. Combination Sum](https://blog.jawadasif.vercel.app/post/combination-sum)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
