@@ -160,10 +160,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [148. Sort List](https://blog.jawadasif.vercel.app/post/sort-list)
 - [133. Clone Graph](https://blog.jawadasif.vercel.app/post/clone-graph)
 - [171. Excel Sheet Column Number](https://blog.jawadasif.vercel.app/post/excel-sheet-column-number)
 - [169. Majority Element](https://blog.jawadasif.vercel.app/post/majority-element)
 - [1288. Remove Covered Intervals](https://blog.jawadasif.vercel.app/post/remove-covered-intervals)
-- [97. Interleaving String](https://blog.jawadasif.vercel.app/post/interleaving-string)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
