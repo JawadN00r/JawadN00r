@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [799. Champagne Tower](https://blog.jawadasif.vercel.app/post/champagne-tower)
 - [413. Arithmetic Slices](https://blog.jawadasif.vercel.app/post/arithmetic-slices)
 - [392. Is Subsequence](https://blog.jawadasif.vercel.app/post/is-subsequence)
 - [338. Counting Bits](https://blog.jawadasif.vercel.app/post/counting-bits)
 - [228. Summary Ranges](https://blog.jawadasif.vercel.app/post/summary-ranges)
-- [662. Maximum Width of Binary Tree](https://blog.jawadasif.vercel.app/post/maximum-width-of-binary-tree)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
