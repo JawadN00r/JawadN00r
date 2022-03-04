@@ -5,11 +5,6 @@
   </h1>
 </p>
 <p align="center">
-  <a href="https://jawadasif.github.io/DinoGameJS_demo/">
-  <img src="assets/dino.gif" alt="Portfolio" />
-  </a>
-</p>
-<p align="center">
   <a href="https://jawadasif.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-04C2C9?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>&nbsp;
