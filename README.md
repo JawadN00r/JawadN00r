@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [21. Merge Two Sorted Lists](https://blog.jawadasif.vercel.app/post/merge-two-sorted-lists)
 - [1359. Count All Valid Pickup and Delivery Options](https://blog.jawadasif.vercel.app/post/count-all-valid-pickup-and-delivery-options)
 - [799. Champagne Tower](https://blog.jawadasif.vercel.app/post/champagne-tower)
 - [413. Arithmetic Slices](https://blog.jawadasif.vercel.app/post/arithmetic-slices)
 - [392. Is Subsequence](https://blog.jawadasif.vercel.app/post/is-subsequence)
-- [338. Counting Bits](https://blog.jawadasif.vercel.app/post/counting-bits)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
