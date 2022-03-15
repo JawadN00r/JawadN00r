@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [1249. Minimum Remove to Make Valid Parentheses](https://blog.jawadasif.vercel.app/post/minimum-remove-to-make-valid-parentheses)
 - [71. Simplify Path](https://blog.jawadasif.vercel.app/post/simplify-path)
 - [20. Valid Parentheses](https://blog.jawadasif.vercel.app/post/valid-parentheses)
 - [138. Copy List with Random Pointer](https://blog.jawadasif.vercel.app/post/copy-list-with-random-pointer)
 - [61. Rotate List](https://blog.jawadasif.vercel.app/post/rotate-list)
-- [2. Add Two Numbers](https://blog.jawadasif.vercel.app/post/add-two-numbers)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
