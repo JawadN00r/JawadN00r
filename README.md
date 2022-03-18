@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [316. Remove Duplicate Letters](https://blog.jawadasif.vercel.app/post/remove-duplicate-letters)
 - [856. Score of Parentheses](https://blog.jawadasif.vercel.app/post/score-of-parentheses)
 - [946. Validate Stack Sequences](https://blog.jawadasif.vercel.app/post/validate-stack-sequences)
 - [1249. Minimum Remove to Make Valid Parentheses](https://blog.jawadasif.vercel.app/post/minimum-remove-to-make-valid-parentheses)
 - [71. Simplify Path](https://blog.jawadasif.vercel.app/post/simplify-path)
-- [20. Valid Parentheses](https://blog.jawadasif.vercel.app/post/valid-parentheses)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
