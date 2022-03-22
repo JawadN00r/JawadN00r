@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [1663. Smallest String With A Given Numeric Value](https://blog.jawadasif.vercel.app/post/smallest-string-with-a-given-numeric-value)
 - [763. Partition Labels](https://blog.jawadasif.vercel.app/post/partition-labels)
 - [1007. Minimum Domino Rotations For Equal Row](https://blog.jawadasif.vercel.app/post/minimum-domino-rotations-for-equal-row)
 - [895. Maximum Frequency Stack](https://blog.jawadasif.vercel.app/post/maximum-frequency-stack)
 - [316. Remove Duplicate Letters](https://blog.jawadasif.vercel.app/post/remove-duplicate-letters)
-- [856. Score of Parentheses](https://blog.jawadasif.vercel.app/post/score-of-parentheses)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
