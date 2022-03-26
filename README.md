@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [704. Binary Search](https://blog.jawadasif.vercel.app/post/binary-search)
 - [1029. Two City Scheduling](https://blog.jawadasif.vercel.app/post/two-city-scheduling)
 - [881. Boats to Save People](https://blog.jawadasif.vercel.app/post/boats-to-save-people)
 - [991. Broken Calculator](https://blog.jawadasif.vercel.app/post/broken-calculator)
 - [1663. Smallest String With A Given Numeric Value](https://blog.jawadasif.vercel.app/post/smallest-string-with-a-given-numeric-value)
-- [763. Partition Labels](https://blog.jawadasif.vercel.app/post/partition-labels)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
