@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [287. Find the Duplicate Number](https://blog.jawadasif.vercel.app/post/find-the-duplicate-number)
 - [81. Search in Rotated Sorted Array II](https://blog.jawadasif.vercel.app/post/search-in-rotated-sorted-array-ii)
 - [1337. The K Weakest Rows in a Matrix](https://blog.jawadasif.vercel.app/post/the-k-weakest-rows-in-a-matrix)
 - [704. Binary Search](https://blog.jawadasif.vercel.app/post/binary-search)
 - [1029. Two City Scheduling](https://blog.jawadasif.vercel.app/post/two-city-scheduling)
-- [881. Boats to Save People](https://blog.jawadasif.vercel.app/post/boats-to-save-people)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
