@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [31. Next Permutation](https://blog.jawadasif.vercel.app/post/next-permutation)
+- [680. Valid Palindrome II](https://blog.jawadasif.vercel.app/post/valid-palindrome-ii)
+- [344. Reverse String](https://blog.jawadasif.vercel.app/post/reverse-string)
 - [410. Split Array Largest Sum](https://blog.jawadasif.vercel.app/post/split-array-largest-sum)
 - [74. Search a 2D Matrix](https://blog.jawadasif.vercel.app/post/search-a-2d-matrix)
-- [287. Find the Duplicate Number](https://blog.jawadasif.vercel.app/post/find-the-duplicate-number)
-- [81. Search in Rotated Sorted Array II](https://blog.jawadasif.vercel.app/post/search-in-rotated-sorted-array-ii)
-- [1337. The K Weakest Rows in a Matrix](https://blog.jawadasif.vercel.app/post/the-k-weakest-rows-in-a-matrix)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
