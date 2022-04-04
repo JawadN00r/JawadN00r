@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [1721. Swapping Nodes in a Linked List](https://blog.jawadasif.vercel.app/post/swapping-nodes-in-a-linked-list)
 - [31. Next Permutation](https://blog.jawadasif.vercel.app/post/next-permutation)
 - [680. Valid Palindrome II](https://blog.jawadasif.vercel.app/post/valid-palindrome-ii)
 - [344. Reverse String](https://blog.jawadasif.vercel.app/post/reverse-string)
 - [410. Split Array Largest Sum](https://blog.jawadasif.vercel.app/post/split-array-largest-sum)
-- [74. Search a 2D Matrix](https://blog.jawadasif.vercel.app/post/search-a-2d-matrix)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
