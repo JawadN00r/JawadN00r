@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [897. Increasing Order Search Tree](https://blog.jawadasif.vercel.app/post/increasing-order-search-tree)
 - [538. Convert BST to Greater Tree](https://blog.jawadasif.vercel.app/post/convert-bst-to-greater-tree)
 - [669. Trim a Binary Search Tree](https://blog.jawadasif.vercel.app/post/trim-a-binary-search-tree)
 - [700. Search in a Binary Search Tree](https://blog.jawadasif.vercel.app/post/search-in-a-binary-search-tree)
 - [59. Spiral Matrix II](https://blog.jawadasif.vercel.app/post/spiral-matrix-ii)
-- [289. Game of Life](https://blog.jawadasif.vercel.app/post/game-of-life)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
