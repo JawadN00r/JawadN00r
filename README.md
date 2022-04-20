@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [173. Binary Search Tree Iterator](https://blog.jawadasif.vercel.app/post/binary-search-tree-iterator)
 - [99. Recover Binary Search Tree](https://blog.jawadasif.vercel.app/post/recover-binary-search-tree)
 - [230. Kth Smallest Element in a BST](https://blog.jawadasif.vercel.app/post/kth-smallest-element-in-a-bst)
 - [897. Increasing Order Search Tree](https://blog.jawadasif.vercel.app/post/increasing-order-search-tree)
 - [538. Convert BST to Greater Tree](https://blog.jawadasif.vercel.app/post/convert-bst-to-greater-tree)
-- [669. Trim a Binary Search Tree](https://blog.jawadasif.vercel.app/post/trim-a-binary-search-tree)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
