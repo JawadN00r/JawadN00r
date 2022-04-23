@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [535. Encode and Decode TinyURL](https://blog.jawadasif.vercel.app/post/encode-and-decode-tinyurl)
 - [706. Design HashMap](https://blog.jawadasif.vercel.app/post/design-hashmap)
 - [705. Design HashSet](https://blog.jawadasif.vercel.app/post/design-hashset)
 - [173. Binary Search Tree Iterator](https://blog.jawadasif.vercel.app/post/binary-search-tree-iterator)
 - [99. Recover Binary Search Tree](https://blog.jawadasif.vercel.app/post/recover-binary-search-tree)
-- [230. Kth Smallest Element in a BST](https://blog.jawadasif.vercel.app/post/kth-smallest-element-in-a-bst)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
