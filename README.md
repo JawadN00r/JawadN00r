@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [844. Backspace String Compare](https://blog.jawadasif.vercel.app/post/backspace-string-compare)
 - [399. Evaluate Division](https://blog.jawadasif.vercel.app/post/evaluate-division)
 - [785. Is Graph Bipartite?](https://blog.jawadasif.vercel.app/post/is-graph-bipartite)
 - [1631. Path With Minimum Effort](https://blog.jawadasif.vercel.app/post/path-with-minimum-effort)
 - [1202. Smallest String With Swaps](https://blog.jawadasif.vercel.app/post/smallest-string-with-swaps)
-- [1584. Min Cost to Connect All Points](https://blog.jawadasif.vercel.app/post/min-cost-to-connect-all-points)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
