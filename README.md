@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [1209. Remove All Adjacent Duplicates in String II](https://blog.jawadasif.vercel.app/post/remove-all-adjacent-duplicates-in-string-ii)
 - [225. Implement Stack using Queues](https://blog.jawadasif.vercel.app/post/implement-stack-using-queues)
 - [1679. Max Number of K-Sum Pairs](https://blog.jawadasif.vercel.app/post/max-number-of-k-sum-pairs)
 - [581. Shortest Unsorted Continuous Subarray](https://blog.jawadasif.vercel.app/post/shortest-unsorted-continuous-subarray)
 - [905. Sort Array By Parity](https://blog.jawadasif.vercel.app/post/sort-array-by-parity)
-- [844. Backspace String Compare](https://blog.jawadasif.vercel.app/post/backspace-string-compare)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
