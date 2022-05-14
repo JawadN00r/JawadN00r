@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [743. Network Delay Time](https://blog.jawadasif.vercel.app/post/network-delay-time)
 - [117. Populating Next Right Pointers in Each Node II](https://blog.jawadasif.vercel.app/post/populating-next-right-pointers-in-each-node-ii)
 - [47. Permutations II](https://blog.jawadasif.vercel.app/post/permutations-ii)
 - [1641. Count Sorted Vowel Strings](https://blog.jawadasif.vercel.app/post/count-sorted-vowel-strings)
 - [216. Combination Sum III](https://blog.jawadasif.vercel.app/post/combination-sum-iii)
-- [17. Letter Combinations of a Phone Number](https://blog.jawadasif.vercel.app/post/letter-combinations-of-a-phone-number)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
