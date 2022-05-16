@@ -38,12 +38,12 @@
 
 <p align="center">
   <img  width="400" height="250" src="assets/blog-1.jpg" />
-  <img  width="400" height="250" src="assets/dinogame.jpg" />
+  <img  width="400" height="250" src="assets/nft_market-0.jpg" />
   <a href="https://github.com/JawadAsif/jawadasif_scribbles">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=jawadasif_scribbles&theme=react&hide_border=true&bg_color=060A0CD0" />
   </a>
-  <a href="https://github.com/JawadAsif/DinoGameJS_demo">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=DinoGameJS_demo&theme=react&hide_border=true&bg_color=060A0CD0" />
+  <a href="https://github.com/JawadAsif/React_Native_NFT_Marketplace_App_Showcase">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=React_Native_NFT_Marketplace_App&theme=react&hide_border=true&bg_color=060A0CD0" />
   </a>
   <img width="400" height="250"src="assets/islamic_times-0.jpg" />
   <img width="400" height="250" src="assets/board_sim.jpg" />
