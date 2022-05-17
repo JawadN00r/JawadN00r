@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://blog.jawadasif.vercel.app/post/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)
 - [1091. Shortest Path in Binary Matrix](https://blog.jawadasif.vercel.app/post/shortest-path-in-binary-matrix)
 - [1302. Deepest Leaves Sum](https://blog.jawadasif.vercel.app/post/deepest-leaves-sum)
 - [743. Network Delay Time](https://blog.jawadasif.vercel.app/post/network-delay-time)
 - [117. Populating Next Right Pointers in Each Node II](https://blog.jawadasif.vercel.app/post/populating-next-right-pointers-in-each-node-ii)
-- [47. Permutations II](https://blog.jawadasif.vercel.app/post/permutations-ii)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
