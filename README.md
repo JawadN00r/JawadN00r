@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [474. Ones and Zeroes](https://blog.jawadasif.vercel.app/post/ones-and-zeroes)
 - [647. Palindromic Substrings](https://blog.jawadasif.vercel.app/post/palindromic-substrings)
 - [329. Longest Increasing Path in a Matrix](https://blog.jawadasif.vercel.app/post/longest-increasing-path-in-a-matrix)
 - [1192. Critical Connections in a Network](https://blog.jawadasif.vercel.app/post/critical-connections-in-a-network)
 - [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://blog.jawadasif.vercel.app/post/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)
-- [1091. Shortest Path in Binary Matrix](https://blog.jawadasif.vercel.app/post/shortest-path-in-binary-matrix)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
