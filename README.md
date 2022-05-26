@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [191. Number of 1 Bits](https://blog.jawadasif.vercel.app/post/number-of-1-bits)
 - [354. Russian Doll Envelopes](https://blog.jawadasif.vercel.app/post/russian-doll-envelopes)
 - [32. Longest Valid Parentheses](https://blog.jawadasif.vercel.app/post/longest-valid-parentheses)
 - [474. Ones and Zeroes](https://blog.jawadasif.vercel.app/post/ones-and-zeroes)
 - [647. Palindromic Substrings](https://blog.jawadasif.vercel.app/post/palindromic-substrings)
-- [329. Longest Increasing Path in a Matrix](https://blog.jawadasif.vercel.app/post/longest-increasing-path-in-a-matrix)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
