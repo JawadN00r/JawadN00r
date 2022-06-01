@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [1480. Running Sum of 1d Array](https://blog.jawadasif.vercel.app/post/running-sum-of-1d-array)
 - [1461. Check If a String Contains All Binary Codes of Size K](https://blog.jawadasif.vercel.app/post/check-if-a-string-contains-all-binary-codes-of-size-k)
 - [29. Divide Two Integers](https://blog.jawadasif.vercel.app/post/divide-two-integers)
 - [318. Maximum Product of Word Lengths](https://blog.jawadasif.vercel.app/post/maximum-product-of-word-lengths)
 - [268. Missing Number](https://blog.jawadasif.vercel.app/post/missing-number)
-- [1342. Number of Steps to Reduce a Number to Zero](https://blog.jawadasif.vercel.app/post/number-of-steps-to-reduce-a-number-to-zero)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
