@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [51. N-Queens](https://blog.jawadasif.vercel.app/post/n-queens)
 - [304. Range Sum Query 2D - Immutable](https://blog.jawadasif.vercel.app/post/range-sum-query-2d-immutable)
 - [867. Transpose Matrix](https://blog.jawadasif.vercel.app/post/transpose-matrix)
 - [1480. Running Sum of 1d Array](https://blog.jawadasif.vercel.app/post/running-sum-of-1d-array)
 - [1461. Check If a String Contains All Binary Codes of Size K](https://blog.jawadasif.vercel.app/post/check-if-a-string-contains-all-binary-codes-of-size-k)
-- [29. Divide Two Integers](https://blog.jawadasif.vercel.app/post/divide-two-integers)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
