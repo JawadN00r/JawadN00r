@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [88. Merge Sorted Array](https://blog.jawadasif.vercel.app/post/merge-sorted-array)
 - [160. Intersection of Two Linked Lists](https://blog.jawadasif.vercel.app/post/intersection-of-two-linked-lists)
 - [52. N-Queens II](https://blog.jawadasif.vercel.app/post/n-queens-ii)
 - [51. N-Queens](https://blog.jawadasif.vercel.app/post/n-queens)
 - [304. Range Sum Query 2D - Immutable](https://blog.jawadasif.vercel.app/post/range-sum-query-2d-immutable)
-- [867. Transpose Matrix](https://blog.jawadasif.vercel.app/post/transpose-matrix)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
