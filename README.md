@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [167. Two Sum II - Input Array Is Sorted](https://blog.jawadasif.vercel.app/post/two-sum-ii-input-array-is-sorted)
 - [1332. Remove Palindromic Subsequences](https://blog.jawadasif.vercel.app/post/remove-palindromic-subsequences)
 - [88. Merge Sorted Array](https://blog.jawadasif.vercel.app/post/merge-sorted-array)
 - [160. Intersection of Two Linked Lists](https://blog.jawadasif.vercel.app/post/intersection-of-two-linked-lists)
 - [52. N-Queens II](https://blog.jawadasif.vercel.app/post/n-queens-ii)
-- [51. N-Queens](https://blog.jawadasif.vercel.app/post/n-queens)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
