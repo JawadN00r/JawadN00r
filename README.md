@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [1695. Maximum Erasure Value](https://blog.jawadasif.vercel.app/post/maximum-erasure-value)
 - [1658. Minimum Operations to Reduce X to Zero](https://blog.jawadasif.vercel.app/post/minimum-operations-to-reduce-x-to-zero)
 - [3. Longest Substring Without Repeating Characters](https://blog.jawadasif.vercel.app/post/longest-substring-without-repeating-characters)
 - [167. Two Sum II - Input Array Is Sorted](https://blog.jawadasif.vercel.app/post/two-sum-ii-input-array-is-sorted)
 - [1332. Remove Palindromic Subsequences](https://blog.jawadasif.vercel.app/post/remove-palindromic-subsequences)
-- [88. Merge Sorted Array](https://blog.jawadasif.vercel.app/post/merge-sorted-array)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
