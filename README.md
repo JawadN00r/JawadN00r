@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [5. Longest Palindromic Substring](https://blog.jawadasif.vercel.app/post/longest-palindromic-substring)
 - [1048. Longest String Chain](https://blog.jawadasif.vercel.app/post/longest-string-chain)
 - [583. Delete Operation for Two Strings](https://blog.jawadasif.vercel.app/post/delete-operation-for-two-strings)
 - [120. Triangle](https://blog.jawadasif.vercel.app/post/triangle)
 - [1695. Maximum Erasure Value](https://blog.jawadasif.vercel.app/post/maximum-erasure-value)
-- [1658. Minimum Operations to Reduce X to Zero](https://blog.jawadasif.vercel.app/post/minimum-operations-to-reduce-x-to-zero)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
