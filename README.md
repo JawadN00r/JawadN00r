@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [1268. Search Suggestions System](https://blog.jawadasif.vercel.app/post/search-suggestions-system)
 - [745. Prefix and Suffix Search](https://blog.jawadasif.vercel.app/post/prefix-and-suffix-search)
 - [968. Binary Tree Cameras](https://blog.jawadasif.vercel.app/post/binary-tree-cameras)
 - [5. Longest Palindromic Substring](https://blog.jawadasif.vercel.app/post/longest-palindromic-substring)
 - [1048. Longest String Chain](https://blog.jawadasif.vercel.app/post/longest-string-chain)
-- [583. Delete Operation for Two Strings](https://blog.jawadasif.vercel.app/post/delete-operation-for-two-strings)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
