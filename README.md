@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [1642. Furthest Building You Can Reach](https://blog.jawadasif.vercel.app/post/furthest-building-you-can-reach)
 - [820. Short Encoding of Words](https://blog.jawadasif.vercel.app/post/short-encoding-of-words)
 - [1268. Search Suggestions System](https://blog.jawadasif.vercel.app/post/search-suggestions-system)
 - [745. Prefix and Suffix Search](https://blog.jawadasif.vercel.app/post/prefix-and-suffix-search)
 - [968. Binary Tree Cameras](https://blog.jawadasif.vercel.app/post/binary-tree-cameras)
-- [5. Longest Palindromic Substring](https://blog.jawadasif.vercel.app/post/longest-palindromic-substring)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadasif.vercel.app)
