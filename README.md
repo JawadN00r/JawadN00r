@@ -5,16 +5,16 @@
   </h1>
 </p>
 <p align="center">
-  <a href="https://jawadasif.vercel.app/">
+  <a href="https://jawadnoor.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-04C2C9?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>&nbsp;
 <!-- <a href="https://codepen.io/JawadAsif"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp; -->
-  <a href="https://linkedin.com/in/JawadAsif">
+  <a href="https://linkedin.com/in/JawadNoor">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
 <!-- <a href="https://leetcode.com/JawadAsif"><img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="Leetcode" /></a>&nbsp; -->
-  <a href="https://leetcode.com/JawadAsif">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=FFA116&label=Leetcode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjawadasif&logo=leetcode&logoColor=FFA116" alt="Leetcode" />
+  <a href="https://leetcode.com/JawadNoor">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=FFA116&label=Leetcode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjawadnoor&logo=leetcode&logoColor=FFA116" alt="Leetcode" />
   </a>&nbsp;
 <!-- <a href="https://dev.to/JawadAsif"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt="Dev.to" /></a>&nbsp; -->
 </p>
@@ -106,7 +106,7 @@
 <h2 align="center">📊 My Github Stats</h2>
 <br />
 <p align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JawadAsif's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JawadAsif&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="600"/>
+  <!-- <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JawadNoor's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JawadAsif&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="600"/> -->
   <img src="https://github-readme-stats.vercel.app/api?username=JawadAsif&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" width="410" style="object-fit:scale-down"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAsif&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" width="400"/>
 </p>
@@ -126,18 +126,18 @@
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
-  <a href = "https://www.linkedin.com/in/JawadAsif/">
+  <a href = "https://www.linkedin.com/in/JawadNoor/">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <!-- <a href = "https://twitter.com/subhamraoniar">
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
   </a> -->
-  <a href = "https://jawadasif.vercel.app/">
+  <a href = "https://jawadnoor.vercel.app/">
     <img src="https://img.icons8.com/fluent/48/000000/globe.png"/>
   </a>
-  <a href = "https://www.youtube.com/channel/UCTLaisaPPgBiQ4PHRXMtH5Q">
+  <!-- <a href = "https://www.youtube.com/channel/UCTLaisaPPgBiQ4PHRXMtH5Q">
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>
-  </a>
+  </a> -->
 
 </p>
 <br>
@@ -155,10 +155,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [215. Kth Largest Element in an Array](https://blog.jawadasif.vercel.app/post/kth-largest-element-in-an-array)
-- [1642. Furthest Building You Can Reach](https://blog.jawadasif.vercel.app/post/furthest-building-you-can-reach)
-- [820. Short Encoding of Words](https://blog.jawadasif.vercel.app/post/short-encoding-of-words)
-- [1268. Search Suggestions System](https://blog.jawadasif.vercel.app/post/search-suggestions-system)
-- [745. Prefix and Suffix Search](https://blog.jawadasif.vercel.app/post/prefix-and-suffix-search)
+- [215. Kth Largest Element in an Array](https://blog.jawadnoor.vercel.app/post/kth-largest-element-in-an-array)
+- [1642. Furthest Building You Can Reach](https://blog.jawadnoor.vercel.app/post/furthest-building-you-can-reach)
+- [820. Short Encoding of Words](https://blog.jawadnoor.vercel.app/post/short-encoding-of-words)
+- [1268. Search Suggestions System](https://blog.jawadnoor.vercel.app/post/search-suggestions-system)
+- [745. Prefix and Suffix Search](https://blog.jawadnoor.vercel.app/post/prefix-and-suffix-search)
 <!-- BLOG-POST-LIST:END -->
-... [READ MORE](https://blog.jawadasif.vercel.app)
+... [READ MORE](https://blog.jawadnoor.vercel.app)
