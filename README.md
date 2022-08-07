@@ -1,6 +1,6 @@
 <p>
   <h1 align="center">
-    <b>Hi there, I'm JawadAsif</b> 
+    <b>Hi there, I'm JawadNoor</b> 
     <img src="assets/wave-hello.gif" alt="hello" width="30"/>
   </h1>
 </p>
@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/JawadNoor">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
-<!-- <a href="https://leetcode.com/JawadAsif"><img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="Leetcode" /></a>&nbsp; -->
+<!-- <a href="https://leetcode.com/JawadNoor"><img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="Leetcode" /></a>&nbsp; -->
   <a href="https://leetcode.com/JawadNoor">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=FFA116&label=Leetcode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjawadnoor&logo=leetcode&logoColor=FFA116" alt="Leetcode" />
   </a>&nbsp;
@@ -39,19 +39,19 @@
 <p align="center">
   <img  width="400" height="250" src="assets/blog-1.jpg" />
   <img  width="400" height="250" src="assets/nft_market-0.jpg" />
-  <a href="https://github.com/JawadAsif/jawadasif_scribbles">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=jawadasif_scribbles&theme=react&hide_border=true&bg_color=060A0CD0" />
+  <a href="https://github.com/JawadNoorBD/jawadnoor_scribbles">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadNoorBD&repo=jawadnoor_scribbles&theme=react&hide_border=true&bg_color=060A0CD0" />
   </a>
-  <a href="https://github.com/JawadAsif/React_Native_NFT_Marketplace_App_Showcase">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=React_Native_NFT_Marketplace_App&theme=react&hide_border=true&bg_color=060A0CD0" />
+  <a href="https://github.com/JawadNoorBD/React_Native_NFT_Marketplace_App_Showcase">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadNoorBD&repo=React_Native_NFT_Marketplace_App&theme=react&hide_border=true&bg_color=060A0CD0" />
   </a>
   <img width="400" height="250"src="assets/islamic_times-0.jpg" />
   <img width="400" height="250" src="assets/board_sim.jpg" />
-  <a href="https://github.com/JawadAsif/Islamic-Times-PWA">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=Islamic-Times-PWA&theme=react&hide_border=true&bg_color=060A0CD0" />
+  <a href="https://github.com/JawadNoorBD/Islamic-Times-PWA">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadNoorBD&repo=Islamic-Times-PWA&theme=react&hide_border=true&bg_color=060A0CD0" />
   </a>
-  <a href="https://github.com/JawadAsif/EIIN_SIM">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadAsif&repo=EIIN_SIM&theme=react&hide_border=true&bg_color=060A0CD0" />
+  <a href="https://github.com/JawadNoorBD/EIIN_SIM">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=JawadNoorBD&repo=EIIN_SIM&theme=react&hide_border=true&bg_color=060A0CD0" />
   </a>
 </p>
 <br />
@@ -106,14 +106,14 @@
 <h2 align="center">📊 My Github Stats</h2>
 <br />
 <p align="center">
-  <!-- <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JawadNoor's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JawadAsif&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="600"/> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JawadAsif&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" width="410" style="object-fit:scale-down"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAsif&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" width="400"/>
+  <!-- <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JawadNoor's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JawadNoorBD&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="600"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JawadNoorBD&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" width="410" style="object-fit:scale-down"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadNoorBD&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" width="400"/>
 </p>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br>
 <br>
-<!-- <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="JawadAsif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JawadAsif&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<!-- <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="JawadNoor's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JawadNoorBD&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
@@ -145,9 +145,9 @@
 <!-- <h2 align="center">❤ Views and Followers</h2>
 <p align="center">
   <a href="">
-      <img src="https://komarev.com/ghpvc/?username=JawadAsif">
+      <img src="https://komarev.com/ghpvc/?username=JawadNoorBD">
   </a>
-  <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/JawadAsif?label=Followers&style=social" alt="GitHub Badge"></a>
+  <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/JawadNoorBD?label=Followers&style=social" alt="GitHub Badge"></a>
 </p> -->
 
 <!-- --- -->
