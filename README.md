@@ -27,7 +27,7 @@
     <li>💪 Developed  mobile, desktop and web apps.</li> 
     <li>💡 Taught CS and Programming Languages.</li>
     <li>🤝 Love to learn and teach.</li>
-    <li>👀 Looking for freelance opportunities.</li>
+    <li>👀 Looking for remote/freelance opportunities.</li>
   </ul>
 </div>
   
@@ -86,6 +86,7 @@
 <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.java.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/> </a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;
+<a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" alt="cpp" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/c/c.png" alt="c" width="40" height="40"/> </a>&nbsp;
 <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"> <img src="https://apprecs.org/ios/images/app-icons/256/c2/486204866.jpg" alt="objective-c" width="40" height="40"/> </a>&nbsp;
