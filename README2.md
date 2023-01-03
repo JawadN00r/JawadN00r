@@ -1,4 +1,4 @@
-### Hi there, I'm Md Jawad Noor Asif - aka [JawadAsif][website] 👋 
+### Hi there, I'm Md Jawad Noor Asif - aka [JawadNoor][website] 👋 
 ## I'm a Computer Scientist and Full Stack Software Engineer!!
 
 - 🔭 I’m currently solving [programming problems][leetcode].
@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[website]: https://jawadasif.vercel.app/
-[leetcode]: https://leetcode.com/JawadAsif/
+[website]: https://jawadnoor.vercel.app/
+[leetcode]: https://leetcode.com/JawadNoor/
 <!-- [twitter]: https://twitter.com/JawadAsif -->
 [youtube]: https://www.youtube.com/channel/UCTLaisaPPgBiQ4PHRXMtH5Q
 <!-- [instagram]: https://instagram.com/JawadAsif -->
