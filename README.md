@@ -156,10 +156,10 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [944. Delete Columns to Make Sorted](https://blog.jawadnoor.vercel.app/post/delete-columns-to-make-sorted)
-- [215. Kth Largest Element in an Array](https://blog.jawadnoor.vercel.app/post/kth-largest-element-in-an-array)
-- [1642. Furthest Building You Can Reach](https://blog.jawadnoor.vercel.app/post/furthest-building-you-can-reach)
-- [820. Short Encoding of Words](https://blog.jawadnoor.vercel.app/post/short-encoding-of-words)
-- [1268. Search Suggestions System](https://blog.jawadnoor.vercel.app/post/search-suggestions-system)
+- [944. Delete Columns to Make Sorted](https://codes.jawad.com.bd/post/delete-columns-to-make-sorted)
+- [215. Kth Largest Element in an Array](https://codes.jawad.com.bd/post/kth-largest-element-in-an-array)
+- [1642. Furthest Building You Can Reach](https://codes.jawad.com.bd/post/furthest-building-you-can-reach)
+- [820. Short Encoding of Words](https://codes.jawad.com.bd/post/short-encoding-of-words)
+- [1268. Search Suggestions System](https://codes.jawad.com.bd/post/search-suggestions-system)
 <!-- BLOG-POST-LIST:END -->
 ... [READ MORE](https://blog.jawadnoor.vercel.app)
