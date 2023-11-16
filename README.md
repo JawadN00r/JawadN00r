@@ -5,7 +5,7 @@
   </h1>
 </p>
 <p align="center">
-  <a href="https://jawadnoor.vercel.app/">
+  <a href="https://jawad.com.bd/">
   <img src="https://img.shields.io/badge/PORTFOLIO-04C2C9?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>&nbsp;
 <!-- <a href="https://codepen.io/JawadAsif"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp; -->
@@ -89,7 +89,7 @@
 <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" alt="cpp" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/c/c.png" alt="c" width="40" height="40"/> </a>&nbsp;
-<a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"> <img src="https://apprecs.org/ios/images/app-icons/256/c2/486204866.jpg" alt="objective-c" width="40" height="40"/> </a>&nbsp;
+<a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/objective-c/objective-c.png" alt="objective-c" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp;
 <a href="https://sass-lang.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" width="40" height="40"/> </a>&nbsp;
@@ -130,11 +130,11 @@
   <a href = "https://www.linkedin.com/in/JawadNoor/">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <!-- <a href = "https://twitter.com/subhamraoniar">
+  <a href = "https://twitter.com/jawadn00r">
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
-  </a> -->
-  <a href = "https://jawadnoor.vercel.app/">
-    <img src="https://img.icons8.com/fluent/48/000000/globe.png"/>
+  </a>
+  <a href = "https://jawad.com.bd/">
+    <img src="https://images.rawpixel.com/image_png_48/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L2pvYjk0Ny0wNTAtcC5wbmc.png"/>
   </a>
   <!-- <a href = "https://www.youtube.com/channel/UCTLaisaPPgBiQ4PHRXMtH5Q">
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>
@@ -162,4 +162,4 @@
 - [820. Short Encoding of Words](https://codes.jawad.com.bd/post/short-encoding-of-words)
 - [1268. Search Suggestions System](https://codes.jawad.com.bd/post/search-suggestions-system)
 <!-- BLOG-POST-LIST:END -->
-... [READ MORE](https://blog.jawadnoor.vercel.app)
+... [READ MORE](https://codes.jawad.com.bd)
